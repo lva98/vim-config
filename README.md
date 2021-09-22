@@ -1,4 +1,4 @@
-#Manual installation dependencies
--nodejs
--fzf
--ranger
+# Manual installation dependencies
+- nodejs
+- fzf
+- ranger
