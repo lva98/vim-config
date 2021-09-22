@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/leonardo/projects/portal-cotacao/kube'
+let g:netrw_dirhist_1='/home/leonardo/projects/central-atendimento/haproxy'
+let g:netrw_dirhist_0='/usr/share/zsh'
+let g:netrw_dirhist_9='/home/leonardo/.config/nvim'
+let g:netrw_dirhist_8='/home/leonardo/DataCompanyCloud/DCbackup/node-worker/src/lib/keytar-check'
+let g:netrw_dirhist_7='/home/leonardo/DataCompanyCloud/CentralAtendimento/kube'
+let g:netrw_dirhist_6='/home/leonardo/teste'
+let g:netrw_dirhist_5='/home/leonardo/DataCompanyCloud/CentralAtendimento/kube'
+let g:netrw_dirhist_4='/home/leonardo/.config/nvim/keys'
+let g:netrw_dirhist_3='/home/leonardo/.config/nvim/general'
